@@ -1,0 +1,14 @@
+{
+  "name": "create-mariadb-tables",
+  "version": "1.0.0",
+  "description": "Node.js module to create thousands of tables in a MariaDB database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kowsar Hossain",
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^2.5.4"
+  }
+}
